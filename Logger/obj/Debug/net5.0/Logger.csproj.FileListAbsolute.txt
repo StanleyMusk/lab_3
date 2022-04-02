@@ -1,0 +1,16 @@
+D:\Users\Andrzej.Malina\source\repos\Logger\Logger\bin\Debug\net5.0\Logger.exe
+D:\Users\Andrzej.Malina\source\repos\Logger\Logger\bin\Debug\net5.0\Logger.deps.json
+D:\Users\Andrzej.Malina\source\repos\Logger\Logger\bin\Debug\net5.0\Logger.runtimeconfig.json
+D:\Users\Andrzej.Malina\source\repos\Logger\Logger\bin\Debug\net5.0\Logger.runtimeconfig.dev.json
+D:\Users\Andrzej.Malina\source\repos\Logger\Logger\bin\Debug\net5.0\Logger.dll
+D:\Users\Andrzej.Malina\source\repos\Logger\Logger\bin\Debug\net5.0\ref\Logger.dll
+D:\Users\Andrzej.Malina\source\repos\Logger\Logger\bin\Debug\net5.0\Logger.pdb
+D:\Users\Andrzej.Malina\source\repos\Logger\Logger\obj\Debug\net5.0\Logger.csproj.AssemblyReference.cache
+D:\Users\Andrzej.Malina\source\repos\Logger\Logger\obj\Debug\net5.0\Logger.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Andrzej.Malina\source\repos\Logger\Logger\obj\Debug\net5.0\Logger.AssemblyInfoInputs.cache
+D:\Users\Andrzej.Malina\source\repos\Logger\Logger\obj\Debug\net5.0\Logger.AssemblyInfo.cs
+D:\Users\Andrzej.Malina\source\repos\Logger\Logger\obj\Debug\net5.0\Logger.csproj.CoreCompileInputs.cache
+D:\Users\Andrzej.Malina\source\repos\Logger\Logger\obj\Debug\net5.0\Logger.dll
+D:\Users\Andrzej.Malina\source\repos\Logger\Logger\obj\Debug\net5.0\ref\Logger.dll
+D:\Users\Andrzej.Malina\source\repos\Logger\Logger\obj\Debug\net5.0\Logger.pdb
+D:\Users\Andrzej.Malina\source\repos\Logger\Logger\obj\Debug\net5.0\Logger.genruntimeconfig.cache
